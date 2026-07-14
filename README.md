@@ -1,11 +1,3 @@
-<!-- ===================================== -->
-<!--              QA BANNER                -->
-<!-- ===================================== -->
-
-<p align="center">
-  <img src="./assets/banner.png" alt="Alekhya Bandu Banner" width="100%" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Alekhya Bandu</h1>
 
 <h3 align="center">
