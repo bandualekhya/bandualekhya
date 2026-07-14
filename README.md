@@ -88,7 +88,7 @@ QA Engineer | Automation Tester | API Testing | Database Testing | AI Testing En
 
 <p align="center">
 
-<a href="linkedin.com/in/alekhya-bandu-094854172/" target="_blank">
+<a href="https://www.linkedin.com/in/alekhya-bandu/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
